@@ -1,15 +1,19 @@
-# Hi 👋 Minyeong's Github
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmminy62%2Fhit-counter&count_bg=%234BCDB7&title_bg=%239FBBBE&icon=&icon_color=%23E15858&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<div align="center">
+    <h1>Hi 👋 Minyeong's Github</h1>
+</div>
+<div>
+성균관대학교에서 컴퓨터전공을 하며 개발을 시작하였습니다.<br> 
+프론트엔드에 학부 프로젝트로 React, Android를 시작해 24년 2월 멋쟁이사자처럼 iOS 3기 교육을 수료 후 iOS 개발자로 취업하기를 희망하고 있습니다.
+</div>
+
 ## 📞 Contacts & Dev Log
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmminy62%2Fhit-counter&count_bg=%234BCDB7&title_bg=%239FBBBE&icon=&icon_color=%23E15858&title=hits&edge_flat=false"/></a>
 [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:mminy62@gmail.com)](mailto:snugyun01@gmail.com)
 [![Tech Blog Badge](http://img.shields.io/badge/-Tistory-mint?style=for-the-badge&logo=tistory&link=https://coding2bdev.tistory.com/)](https://coding2bdev.tistory.com/)
 
-![Mminy62's GitHub stats](https://github-readme-stats.vercel.app/api?username=mminy62&show_icons=true&theme=cobalt)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=min3209258)](https://solved.ac/min3209258/)
 
-## 💪 Once I've used
-
-<div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
+<div>
+    <h2>💪 Once I've used</h2>
     <!-- iOS -->
     <p><strong>iOS</strong></p>
     <div>
@@ -53,3 +57,5 @@
         <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"> 
 </div><br>
 </div>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mminy62&layout=compact&theme=tokyonight">[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=min3209258)](https://solved.ac/min3209258/)
