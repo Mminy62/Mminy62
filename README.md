@@ -11,7 +11,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:mminy62@gmail.com)](mailto:snugyun01@gmail.com)
 [![Tech Blog Badge](http://img.shields.io/badge/-Tistory-mint?style=for-the-badge&logo=tistory&link=https://coding2bdev.tistory.com/)](https://coding2bdev.tistory.com/)
 
-
+<div align="center">
 <div>
     <h2>💪 Once I've used</h2>
     <!-- iOS -->
@@ -34,15 +34,15 @@
         <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"> 
         <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
         <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
-<img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=black">
+        <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=black">
     </div>
 <!-- Development Tool -->
     <p><strong>Development Tool</strong></p>
     <div>
         <img src="https://img.shields.io/badge/Xcode-blue?style=flat-square&logo=xcode&logoColor=white"> 
         <img src="https://img.shields.io/badge/Visual Studio Code-1572B6?style=flat-square&logo=visualstudiocode&logoColor=white"> 
-<img src="https://img.shields.io/badge/Eclipse IDE-purple?style=flat-square&logo=eclipseIDE&logoColor=white"> 
-<img src="https://img.shields.io/badge/Andoid Studio-green?style=flat-square&logo=android studio&logoColor=white">
+        <img src="https://img.shields.io/badge/Eclipse IDE-purple?style=flat-square&logo=eclipseIDE&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Andoid Studio-green?style=flat-square&logo=android studio&logoColor=white">
     </div>
 <!-- Verson control -->
     <p><strong>Verson Control</strong></p>
@@ -58,4 +58,8 @@
 </div><br>
 </div>
 
+</div>
+
+<div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mminy62&layout=compact&theme=tokyonight">[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=min3209258)](https://solved.ac/min3209258/)
+</div>
