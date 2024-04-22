@@ -60,6 +60,5 @@
 
 </div>
 
-<div align="center">
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mminy62&layout=compact&theme=tokyonight">[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=min3209258)](https://solved.ac/min3209258/)
-</div>
