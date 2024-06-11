@@ -6,7 +6,7 @@
 
 | Contact | Introduction |
 |:---:|:---:|
-| ✔ HITS [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmminy62%2Fhit-counter&count_bg=%234BCDB7&title_bg=%239FBBBE&icon=&icon_color=%23E15858&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) <br> 📧 Mail [Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:mminy62@gmail.com) <br> 👉🏻 Blog  [Tistory](https://coding2bdev.tistory.com/) | 성균관대학교에서 컴퓨터전공을 하며 개발을 시작하였습니다. 학부 프로젝트로 React, Android 를 시작해 24년 2월 멋쟁이사자처럼 iOS 3기 교육을 수료 후 iOS 개발자로 취업하기를 희망하고 있습니다. |
+| ✔ HITS [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmminy62%2Fhit-counter&count_bg=%234BCDB7&title_bg=%239FBBBE&icon=&icon_color=%23E15858&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) <br> 📧 Mail [Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:mminy62@gmail.com) <br> 👉🏻 Blog  [Tistory](https://coding2bdev.tistory.com/) | 성균관대학교에서 컴퓨터전공을 하며 개발을 시작하였습니다.<br>학부 프로젝트로 React, Android 를 시작해 <br> 24년 2월 멋쟁이사자처럼 iOS 교육을 수료 후 iOS 개발자를 목표하고 있습니다 :) |
 
 
 </div>
