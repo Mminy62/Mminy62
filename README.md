@@ -1,19 +1,19 @@
-<div align="center">
+<div align="left">
     <h1>👋 Hi 👋 Minyeong's Github </h1>
 </div>
 
-<div align="center">
+<div align="left">
 
 | Contact | Introduction |
 |:---:|:---:|
-| ✔ HITS [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmminy62%2Fhit-counter&count_bg=%234BCDB7&title_bg=%239FBBBE&icon=&icon_color=%23E15858&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) <br> 📧 Mail [Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:mminy62@gmail.com) <br> 👉🏻 Blog  [Tistory](https://coding2bdev.tistory.com/) |  |
+| ✔ HITS [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmminy62%2Fhit-counter&count_bg=%234BCDB7&title_bg=%239FBBBE&icon=&icon_color=%23E15858&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) <br> 📧 Mail [Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:mminy62@gmail.com) <br> 👉🏻 Blog  [Tistory](https://coding2bdev.tistory.com/) | 모바일 앱 개발자를 희망하는 이민영 입니다 :)|
 
 
 </div>
 
-<div align="center">
+<div align="left">
     <div>
-        <h2>💪 Once I've used</h2>
+        <h2>💪 사용해 본 기술</h2>
         <!-- iOS -->
         <p><strong>iOS</strong></p>
         <div>
@@ -60,10 +60,4 @@
 
 </div>
 
-
-<div align="center">
-    
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mminy62&layout=compact&theme=tokyonight">[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=min3209258)](https://solved.ac/min3209258/)
-
-</div>
 
