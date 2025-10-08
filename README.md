@@ -14,38 +14,40 @@
 
 ---
 
-## 🛠️ Tech Stack
 
-### 💡 Frontend
-| Technology | Badge |
-| :--- | :--- |
-| **React** | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) |
-| **TypeScript** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) |
-| **Next.js** | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) |
+## 💻 Tech Stack & Tools
 
-### 💾 Backend & DB
-| Technology | Badge |
-| :--- | :--- |
-| **Node.js** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) |
-| **Spring Boot** | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) |
-| **MySQL** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
-| **Redis** | ![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white) |
+**Frontend**
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/iOS-FFFFFF?style=for-the-badge&logo=apple&logoColor=000000" />
+</p>
 
-### ☁️ DevOps & Tools
-| Technology | Badge |
-| :--- | :--- |
-| **Docker** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
-| **AWS** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) |
-| **Git & GitHub** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
+**Backend & DB**
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white" />
+</p>
 
----
+**DevOps & Cloud**
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
-## 🔥 GitHub Stats
+
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mminy62&show_icons=true&theme=buefy&hide_border=true&count_private=true" alt="Mminy62 깃허브 통계" />
-  <img src="https://bojstat.vulcan.site/v2/en/min3209258" alt="min3209258 백준 통계"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mminy62&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Mminy62's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mminy62&theme=tokyonight&hide_border=true" alt="Mminy62's GitHub Streak" />
 </p>
+
 
 ---
 
