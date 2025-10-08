@@ -1,3 +1,9 @@
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Minyoung%20Lee%20(Mminy62)&fontSize=50&fontAlign=50&fontAlignY=40&desc=Fullstack%20Developer%20%7C%20Open%20Source%20Enthusiast&descAlign=50" />
+</p>
+
+
 ### 👋 안녕하세요, 풀스택 개발자를 꿈꾸는 "이민영" 입니다.
 
 [![프로필 뷰 카운터](https://komarev.com/ghpvc/?username=Mminy62&color=blue)](https://github.com/Mminy62)
