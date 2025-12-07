@@ -4,7 +4,7 @@
 </p>
 
 
-### 👋 안녕하세요, 풀스택 개발자를 꿈꾸는 "이민영" 입니다.
+### 👋 안녕하세요, "이민영" 입니다.
 
 [![프로필 뷰 카운터](https://komarev.com/ghpvc/?username=Mminy62&color=blue)](https://github.com/Mminy62)
 [![GitHub Badges (예: 팔로워)](https://img.shields.io/github/followers/Mminy62?label=Follow&style=social)](https://github.com/Mminy62)
